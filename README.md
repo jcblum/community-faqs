@@ -12,6 +12,8 @@ A key goal of refreshing the FAQs was to improve our guidance on the nuts and bo
 
 The final drafts of FAQ articles that were completely rewritten are contained in this repo. Further updates and changes will occur on the Community site itself, so refer to the link for the latest version.
 
+Note that although these files are written in Markdown, the source is optimized for some of [Discourse](https://discourse.org)'s specific formatting quirks and features. Images may look excessively large when viewed on GitHub, since many of them are relying on Discourse's custom extension to Markdown image syntax that automatically creates click-to-expand thumbnail images.
+
 ### Tips for writing R-related questions
 _(draft in progress, not yet posted)_
 
