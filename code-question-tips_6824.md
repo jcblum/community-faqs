@@ -77,7 +77,7 @@ If your title is too general, people won't know what your question is about, and
 
 
 - :x: Plotting error
-- :white_check_mark:
+- :white_check_mark: Error bars not aligned correctly in a grouped bar chart
 
 
 - :x: Cross-validation question
