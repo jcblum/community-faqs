@@ -1,3 +1,10 @@
+[reprex]: https://github.com/jcblum/reprex-howto/blob/master/reprex.md
+[reprex-newbie]: https://github.com/jcblum/reprex-howto/blob/master/reprex_newbie.md
+[data]: https://github.com/jcblum/reprex-howto/blob/master/reprexdata_advanced.md
+[data-builtin]: https://github.com/jcblum/reprex-howto/blob/master/reprexdata_advanced.md#heading--builtin
+[data-generate]: https://github.com/jcblum/reprex-howto/blob/master/reprexdata_advanced.md#heading--generate
+[data-owndata]: https://github.com/jcblum/reprex-howto/blob/master/reprexdata_advanced.md#heading--owndata
+[data-newbie]: https://github.com/jcblum/reprex-howto/blob/master/reprex_newbie.md#make-it-self-contained
 
 ## First and foremost, *please ask!*
 
@@ -111,10 +118,10 @@ https://community.rstudio.com/categories
 
 - Before you post a question in [RStudio IDE](), make sure your question is directly related to the RStudio IDE, and not a general R question. If you're not sure what the difference is, see: https://community.rstudio.com/t/differentiating-r-from-rstudio/8009
 
-- If you are seeking support for a problem with **the shinyapps.io service**, please post in [shinyappsio]() (a sub-category of the [Shiny]() category)
+- If you are seeking support for a problem with **the shinyapps.io service**, please post in [shinyappsio](https://community.rstudio.com/c/shiny/shinyappsio) (a sub-category of the [Shiny](https://community.rstudio.com/c/shiny) category)
   - If you have a paid shinyapps.io plan, you are eligible for Premium Email Support! See: https://www.shinyapps.io/#support
 
-- If you are seeking support for a problem with [**RStudio Cloud**](https://rstudio.cloud/), please post in the [RStudio Cloud]() category
+- If you are seeking support for a problem with [**RStudio Cloud**](https://rstudio.cloud/), please post in the [RStudio Cloud category](https://community.rstudio.com/c/rstudio-cloud)
 
 #### Tags
 
