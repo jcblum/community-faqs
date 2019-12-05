@@ -1,3 +1,10 @@
+[format-code]: code-formatting_6246.md
+[tips-code]: code-question-tips_6824.md
+[cross-post]: cross-posting_5218.md
+[homework]: homework_5181.md
+[mark-solution]: mark-solution_5633.md
+[categories-tags]: track-categories_22342.md
+
 # RStudio Community FAQ Revamp
 
 As part of my 2019 internship with RStudio, I embarked on a top-to-bottom revamp of [RStudio Community](https://community.rstudio.com)'s FAQ documentation and user guides. In some cases, this involved copy edits and small tweaks to improve clarity and organization. In other cases, I rewrote entire articles, or wrote entirely new collections of guides.
@@ -17,34 +24,34 @@ Note that although these files are written in Markdown, the source is optimized 
 ### Tips for writing R-related questions
 _(draft in progress, not yet posted)_
 
-- Draft: [code-question-tips_6824.md](code-question-tips_6824.md)
+- Draft: [code-question-tips_6824.md][tips-code]
 - Current version: https://community.rstudio.com/t/6824
 
 ### FAQ: How to format your code
 
-- Final draft: [code-formattting_6246.md](code-formatting_6246.md)
+- Final draft: [code-formattting_6246.md][format-code]
 - Current version: https://community.rstudio.com/t/6246
 
 ### FAQ: How do I mark a solution?
 
-- Final draft: [mark-solution_5633.md](mark-solution_5633.md)
+- Final draft: [mark-solution_5633.md][mark-solution]
 - Current version: https://community.rstudio.com/t/5633
 
 ### FAQ: Is it OK if I cross-post?
 
-- Final draft: [cross-posting_5218.md](cross-posting_5218.md)
+- Final draft: [cross-posting_5218.md][cross-post]
 - Current version: https://community.rstudio.com/t/5218
 
 ### FAQ: Homework Policy
 
-- Final draft: [homework_5181.md](homework_5181.md)
+- Final draft: [homework_5181.md][homework]
 - Current version: https://community.rstudio.com/t/5181
 
 ### FAQ: How do I track categories or tags? / FAQ: How do I change how I'm notified about a discussion?
 
 _These two existing articles had largely overlapping content. Since they both have inbound links, I left them as-is for the time being, but used the same contents for both. Probably one should be deleted and/or re-directed to the other._
 
-- Final draft: [track-categories_22342.md](track-categories_22342.md)
+- Final draft: [track-categories_22342.md][categories-tags]
 - Current version: https://community.rstudio.com/t/22342 or https://community.rstudio.com/t/19382
 
 ## Minor refreshes
