@@ -25,7 +25,7 @@ It can be difficult to figure out the best ways to ask questions about code prob
     - [Put extra effort into your title](#heading--title)
     - [Choose an appropriate category and tags](#heading--tags)
     - [Format your code](#heading-formatcode)
-    - [Include a `Rep`roducible `Ex`ample](#heading--reprex)
+    - [Include a **Rep**roducible **Ex**ample](#heading--reprex)
     - [Make the data in your reprex self-contained](#heading--reprexdata)
     - [Use the `reprex` package to prepare your reproducible example](#heading--reprexpkg)
     - [Use screenshots the right way](#heading--screenshot)
@@ -150,7 +150,7 @@ All **code** or **console output** you include in your posts should be formatted
 
 If you're trying to figure out how to include **properly formatted R Markdown source** in your post, here's the special trick: [Formatting R Markdown Source](https://community.rstudio.com/t/faq-how-to-format-your-code/6246#heading--rmarkdown)
 
-<h3 id='heading--reprex'>Include a <code>Rep</code>roducible <code>Ex</code>ample</h3>
+<h3 id='heading--reprex'>Include a <strong>Rep</strong>roducible <strong>Ex</strong>ample</h3>
 
 The gold standard for communicating about code problems is to compose a **small, self-contained reproducible example** ("reprex" for short). A reproducible example is a chunk of code that:
 
@@ -175,7 +175,7 @@ Most helpers will work on your code problem in two stages: first they will _read
 
 If your problem involves code that's working with data, then you'll need to include example data in your reproducible example. 
 
-The tricky part is that the data needs to be included in a **completely self-contained** way. In most cases, this means you won't be able to just re-use the data import code you've already got. That `CSV` on your hard drive doesn't exist on anybody else's computer! 😅
+The tricky part is that the data needs to be included in a **self-contained** way. In most cases, this means you won't be able to just re-use the data import code you've already got. That `CSV` on your hard drive doesn't exist on anybody else's computer! 😅
 
 Some good ways to get self-contained data into a reprex are:
 
@@ -185,14 +185,14 @@ Some good ways to get self-contained data into a reprex are:
 
 #### Methods for making data self-contained
 
-If you're new to reproducible examples, start here: [Beginner's guide to creating reproducible examples: Make it self-contained][data-newbie]
+- If you're **new** to reproducible examples, **start here**: [Beginner's guide to creating reproducible examples: Make it self-contained][data-newbie]
 
-If you want all the details, read our comprehensive guide:
+- If you want **all the details**, read:
 [How to get data into your reproducible example][data] 
 
 <h3 id='heading--reprexpkg'>Use the `reprex` package to prepare your reproducible example</h3>
 
-[`reprex`](https://reprex.tidyverse.org/) is a tidyverse package with useful tools for preparing reproducible examples. Using it has two major benefits:
+[`reprex`](https://reprex.tidyverse.org/) is a tidyverse package that helps you prepare reproducible examples to be posted at sites like this one. Using it has two major benefits:
 
 - It automatically **formats** both **your code _and the code's output_** in a way that's easy for your helpers to read, and also easy for them to copy, paste, and run themselves.
 - It helps you **verify** that your reproducible example really is **complete and self-contained** by running the code in a separate R session while generating the formatted output.
@@ -202,8 +202,7 @@ You don't *have* to use `reprex` to prepare your reproducible examples, but we *
 #### Get started with the `reprex` package
 
 
-
-: you can't use `reprex` to prepare Shiny reproducible examples. [SHINY GUIDANCE]()
+**Note:** You can't use `reprex` to prepare Shiny reproducible examples. Find out more: [SHINY GUIDANCE]()
 
 <h3 id='heading--screenshot'>Use screenshots the right way</h3>
 
