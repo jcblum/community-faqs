@@ -12,8 +12,8 @@ Please **do** ask general questions about things like:
 ### Specific questions *can* be OK, *if* you follow these rules:
 
 1. **Never copy-paste instructions from an assignment** (even for online courses).
-1. Explicitly mention the course you are taking and **use the #homework tag**.
-1. **Ask your question as a [reproducible example (reprex)](https://community.rstudio.com/t/faq-how-to-do-a-minimal-reproducible-example-reprex-for-beginners/23061/)**, preferably prepared for posting using the [`reprex` package](http://tidyverse.com/help).
+2. Explicitly mention the course you are taking and **use the #homework tag**.
+3. **Ask your question as a [reproducible example (reprex)](https://community.rstudio.com/t/faq-how-to-do-a-minimal-reproducible-example-reprex-for-beginners/23061/)**, preferably prepared for posting using the [`reprex` package](http://tidyverse.com/help).
 
 Want to maximize your chances of getting the help you need? Keep reading! :nerd_face:
   
