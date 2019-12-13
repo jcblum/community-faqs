@@ -22,10 +22,9 @@ The final drafts of FAQ articles that were completely rewritten are contained in
 Note that although these files are written in Markdown, the source is optimized for some of [Discourse](https://discourse.org)'s specific formatting quirks and features. Images may look excessively large when viewed on GitHub, since many of them are relying on Discourse's custom extension to Markdown image syntax that automatically creates click-to-expand thumbnail images.
 
 ### Tips for writing R-related questions
-_(draft in progress, not yet posted)_
 
-- Draft: [code-question-tips_6824.md][tips-code]
-- Current version: https://community.rstudio.com/t/6824
+- Development version: [code-question-tips_6824.md][tips-code]
+- Draft for comment: https://community.rstudio.com/t/47267
 
 ### FAQ: How to format your code
 
