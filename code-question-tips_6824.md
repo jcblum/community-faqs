@@ -1,5 +1,6 @@
 [reprex]: https://github.com/jcblum/reprex-howto/blob/master/reprex.md
 [reprex-newbie]: https://github.com/jcblum/reprex-howto/blob/master/reprex_newbie.md
+[reprex-package]: https://github.com/jcblum/reprex-howto/blob/master/reprex_package.md
 [data]: https://github.com/jcblum/reprex-howto/blob/master/reprexdata_advanced.md
 [data-builtin]: https://github.com/jcblum/reprex-howto/blob/master/reprexdata_advanced.md#heading--builtin
 [data-generate]: https://github.com/jcblum/reprex-howto/blob/master/reprexdata_advanced.md#heading--generate
@@ -201,6 +202,9 @@ You don't *have* to use `reprex` to prepare your reproducible examples, but we *
 
 #### Get started with the `reprex` package
 
+- If you've never used `reprex` before and you're trying to post a reproducible example on this site, start here: [Use the `reprex` package to prepare your reproducible example for posting][reprex-package]
+- For more general instructions, see the [package documentation](https://reprex.tidyverse.org)
+
 
 **Note:** You can't use `reprex` to prepare Shiny reproducible examples. Find out more: [SHINY GUIDANCE]()
 
@@ -255,13 +259,3 @@ https://community.rstudio.com/t/faq-how-do-i-mark-a-solution/5633
 <h3 id='heading--newquestion'>New related questions belong in a new topic</h3>
 
 Please don't treat your topic as an ongoing chat session. A few direct follow-ups are OK, but if the discussion sparks a question only loosely related to the main topic, **start a new topic** and **include a link** to your first topic to provide context.
-
----
-<!--
-#### Goals of this guide
-- Pose your question so that it is more likely to get a useful response.
-- Help potential responders grasp your issue.
-- Keep our community tidy so folks in the future can easily find how people dealt with similar issues.
-
-If you feel this guide or community.rstudio.com's processes can be improved, please let us know.
--->
